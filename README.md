@@ -2,7 +2,8 @@
 
 ## 📸 Preview
 
-[](./preview1.jpg)
-[](./preview2.jpg)
+[Tic Tac Toe](./preview1.jpg)
+[Winner](./preview2.jpg)
+
 
 
