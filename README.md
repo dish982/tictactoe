@@ -2,5 +2,6 @@
 
 ## 📸 Preview
 
-(preview1.jpg)
-(preview2.jpg)
+[](/preview1.jpg)
+[](/preview2.jpg)
+
